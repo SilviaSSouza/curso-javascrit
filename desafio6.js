@@ -4,7 +4,7 @@ function calcularImc(peso, altura) {
 }
 
 
-const peso = 75;
+const peso = 120;
 const altura = 1.75;
 const imc = peso / Math.pow(altura, 2);
 console.log(imc);
